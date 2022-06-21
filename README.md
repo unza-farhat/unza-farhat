@@ -3,8 +3,7 @@
 ![MasterHeader](./C:\Users\PARAS\Downloads.png)
 <h1 align="center">Hi 👋, I'm Unza Farhat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<image align="right" alt="Coding" width="400" src="https://www.peakpx.com/en/hd-wallpaper-desktop-oqrnl/download/400x400">
-
+<image align="right" alt="Coding" width="400" src="https://i.gifer.com/HaD1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unza-farhat&label=Profile%20views&color=0e75b6&style=flat" alt="unza-farhat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/unzafarhat" target="blank"><img src="https://img.shields.io/twitter/follow/unzafarhat?logo=twitter&style=for-the-badge" alt="unzafarhat" /></a> </p>
