@@ -1,4 +1,4 @@
-![Masterheader](https://teknolojio.com.tr/uploads/2020/12/github-nedir-724x394.webp) 
+![Masterheader](https://cdn.webtekno.com/media/cache/content_detail/article/117655/github-nedir-1637678263.jpg) 
 <h1 align="center">Hi 👋, I'm Unza Farhat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
