@@ -10,14 +10,12 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [https://medium.com/@unzafarhat1](https://medium.com/@unzafarhat1)
+- 📝 I write articles on [https://medium.com/@unzafarhat1](https://medium.com/@unzafarhat1)
 
-- 💬 Ask me about **machine learning, MC**
+- 💬 Ask me about **Tech related information**
 
 - 📫 How to reach me **unzafarhat1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c4GnmROOYILo7sngl1gVIiCe1Q7eIIed/view](https://drive.google.com/file/d/1c4GnmROOYILo7sngl1gVIiCe1Q7eIIed/view)
-
+  
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
